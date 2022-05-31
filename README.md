@@ -2,7 +2,7 @@
 
 A simple adapter to use native navigation between SwiftUI and UIKit
 
-<img src="https://github.com/pavellunev99/ViewControllerAdapter/raw/pavellunev99-exampleGif/ViewControllerAdapter.gif" width="60" height="100"/>
+<img src="https://github.com/pavellunev99/ViewControllerAdapter/raw/pavellunev99-exampleGif/ViewControllerAdapter.gif"/>
 
 ### Installation:
 
